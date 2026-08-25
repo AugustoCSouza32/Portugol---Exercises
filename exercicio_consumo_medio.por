@@ -1,7 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
-	/*
+	inclua biblioteca Matematica --> mat
+	/*
 	Fazer um programa para ler a distância total (em Km percorrida por um carro,
 	bem como o tatal de combustível gasto por este carro ao percorrer tal distância.
 	Seu programa deve mostrar o consumo médio do carro, com três casa decimais.
@@ -20,7 +20,7 @@ programa
 
 		consumoMedio = mat.arredondar(consumoMedio, 3)
 
-		escreva("\n Consumo médio: ", consumoMedio)
+		escreva("\n Consumo médio: ", consumoMedio," Km/L")
 		escreva("\n")
 	}
 }
@@ -29,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 687; 
+ * @POSICAO-CURSOR = 478; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
